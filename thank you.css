@@ -1,0 +1,29 @@
+body{
+
+    background: linear-gradient(to right, #ffc800, #ff0062);
+
+}
+
+*{
+
+    font-family: "Boldonse", system-ui;
+
+}
+
+.animation{
+
+    text-align: center;
+
+    width: 300px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    border: 2px solid #000000;
+
+    border-radius: 15px;
+
+    background: linear-gradient(to right, #8c00ff, #00ffe5);
+
+}

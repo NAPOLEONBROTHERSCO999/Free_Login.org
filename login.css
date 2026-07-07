@@ -1,0 +1,99 @@
+@keyframes Fr 
+{
+
+    from{transform: translateY(300%);}
+
+}
+
+to{
+
+    transform: translateY(0%);
+        
+}
+
+.animation{
+
+    animation-name: Fr;
+
+    animation-duration: 4s;
+
+}
+
+body{
+
+    font-family: "Boldonse", system-ui;
+
+    background: linear-gradient(to right, #ffc800, #ff0062);
+
+    animation-name:  Fr;
+
+    animation-duration: 4s;
+
+}
+
+.login {
+
+    width: 300px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    border: 2px solid #000000;
+
+    border-radius: 15px;
+
+    background: linear-gradient(to right, #6600ff, #ff00d9);
+
+    font-size: 1.3em;
+
+}
+
+.h1 {
+
+    text-align: center;
+
+    width: 300px;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    border: 2px solid #000000;
+
+    border-radius: 5px;
+
+    font-size: 1.3em;
+
+    background: linear-gradient(to right, #8c00ff, #00ffe5);
+
+}
+
+submit{
+
+    color: #000;
+
+    background-color: #0051ff;
+
+    border-radius: 10px;
+
+}
+
+forgot{
+
+    background: linear-gradient(to right, #ff00d9, #6600ff);
+
+}
+
+*{
+
+    font-family: "Boldonse", system-ui;
+
+}
+
+submit{
+
+    background: linear-gradient(to left , rgb(0, 255, 183) , rgb(0, 68, 255));
+
+}
+
